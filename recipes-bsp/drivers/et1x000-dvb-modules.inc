@@ -6,7 +6,7 @@ LICENSE = "CLOSED"
 PV = "${KV}+${SRCDATE}"
 PR = "r2"
 
-SRC_URI = "https://ednaz.tvfaq.net/gi-et/et1x000/${MACHINE}-drivers-${KV}-${GCCREV}-${SRCDATE}.zip"
+SRC_URI = "http://ednaz.tvfaq.net/gi-et/et1x000/${MACHINE}-drivers-${KV}-${GCCREV}-${SRCDATE}.zip"
 
 S = "${WORKDIR}"
 
